@@ -302,10 +302,10 @@
     font-size: 25px;
   }
   .box-cta {
-    padding: 40px 25px;
+    padding: 40px 10px;
   }
   .box-cta h2 {
-    font-size: 30px;
+    font-size: 25px;
   }
   .box-cta .preco p {
     font-size: 13px;
@@ -318,5 +318,20 @@
 
   .title-faq h2 {
     font-size: 25px;
+  }
+
+  .section-depoimentos .box-depoimento {
+    gap: 5px;
+    width: 90%;
+  }
+}
+
+@media (max-width: 300px) {
+  .section-garantia .garantia-image img {
+    width: 180px;
+  }
+
+  .secao-dupla .box-primary img {
+    width: 90%;
   }
 }
