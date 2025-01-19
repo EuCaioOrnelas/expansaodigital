@@ -212,3 +212,111 @@
     width: 90%;
   }
 }
+
+@media (max-width: 500px) {
+  .text-attention .sub-title {
+    width: 80%;
+  }
+
+  .text-attention .sub-title p {
+    font-size: 10px;
+    color: #fff;
+  }
+
+  .text-attention .title h2 {
+    font-size: 30px;
+  }
+
+  .text-attention .descript p {
+    font-size: 15px;
+  }
+
+  .box-problems {
+    padding: 40px 25px;
+  }
+
+  .box-problems h2 {
+    color: #1f2041;
+    text-align: center;
+    font-size: 25px;
+  }
+
+  .box-problems .list-problems .content-list {
+    margin: 0 0;
+  }
+
+  .box-problems .list-problems .content-list img {
+    width: 25px;
+  }
+
+  .box-primary {
+    padding: 40px 25px;
+  }
+  .box-primary h2 {
+    font-size: 25px;
+  }
+
+  .box-primary .list-beneficios .content-list {
+    margin: 0 0;
+  }
+
+  .citacao p {
+    font-size: 16px;
+  }
+
+  .box-primary .list-beneficios .content-list-2 {
+    margin: 0 0;
+  }
+  .box-primary .list-beneficios .content-list-2 img {
+    width: 25px;
+  }
+
+  .box-solucao {
+    padding: 40px 25px;
+  }
+  .box-solucao h2 {
+    font-size: 25px;
+  }
+  .box-solucao .list-beneficios .content-list-2 {
+    margin: 0 0;
+  }
+
+  .title-2 h2 {
+    color: #1f2041;
+    text-align: center;
+    font-size: 25px;
+  }
+
+  .review-1 .icon {
+    width: 60px;
+    border-radius: 999px;
+  }
+  .section-para-quem-e .card-para-quem-e p {
+    font-size: 15px;
+  }
+
+  .section-garantia .garantia-content h2 {
+    font-size: 30px;
+  }
+  .title-cta h2 {
+    font-size: 25px;
+  }
+  .box-cta {
+    padding: 40px 25px;
+  }
+  .box-cta h2 {
+    font-size: 30px;
+  }
+  .box-cta .preco p {
+    font-size: 13px;
+  }
+  .box-cta .preco h2 {
+    font-size: 35px;
+    color: #fff;
+    text-align: center;
+  }
+
+  .title-faq h2 {
+    font-size: 25px;
+  }
+}
