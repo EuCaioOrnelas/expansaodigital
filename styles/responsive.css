@@ -214,6 +214,13 @@
 }
 
 @media (max-width: 500px) {
+  .text-attention .title {
+    color: #000;
+    padding: 15px;
+    width: 90%;
+    text-align: center;
+  }
+
   .text-attention .sub-title {
     width: 80%;
   }
@@ -327,11 +334,47 @@
 }
 
 @media (max-width: 300px) {
+  .set-top {
+    width: 90%;
+  }
+
+  .set-background-content {
+    width: 90%;
+  }
+
   .section-garantia .garantia-image img {
     width: 180px;
   }
 
   .secao-dupla .box-primary img {
-    width: 90%;
+    width: 85%;
+  }
+  .text-attention .sub-title {
+    width: 80%;
+  }
+
+  .text-attention .title h2 {
+    font-size: 25px;
+  }
+
+  .text-attention .descript p {
+    font-size: 15px;
+  }
+
+  .box-problems {
+    padding: 40px 20px;
+  }
+
+  .box-primary {
+    padding: 40px 20px;
+  }
+
+  .box-solucao {
+    padding: 40px 20px;
+  }
+
+  .section-depoimentos .box-depoimento {
+    gap: 5px;
+    width: 85%;
   }
 }
