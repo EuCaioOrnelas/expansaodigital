@@ -347,6 +347,7 @@
     transform: translateX(-50%); /* Ajusta a posição para alinhar ao centro */
     width: 100%; /* Ocupar toda a largura do contêiner */
     height: 100%; /* Ajustar à altura do contêiner */
+    border: solid #000 3px;
   }
 }
 
