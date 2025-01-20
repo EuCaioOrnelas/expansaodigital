@@ -377,6 +377,27 @@
   width: 30px;
 }
 
+.box-solucao a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 10px 0;
+  font-family: "Barlow", serif;
+  font-weight: 700;
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  padding: 15px 30px;
+  border-radius: 8px;
+  border: none;
+  background-color: #11a65f;
+}
+
+.box-solucao a:hover {
+  background-color: #0d7d47;
+}
+
 .title-2 {
   display: flex;
   justify-content: center;
@@ -472,6 +493,27 @@
 .call-action {
   margin: 20px 0px;
   text-align: center;
+}
+
+.call-action a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin: 10px 0;
+  font-family: "Barlow", serif;
+  font-weight: 700;
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  padding: 15px 30px;
+  border-radius: 8px;
+  border: none;
+  background-color: #11a65f;
+}
+
+.call-action a:hover {
+  background-color: #0d7d47;
 }
 
 .section-quebra-objecoes {
@@ -685,6 +727,10 @@
 }
 
 .box-cta .button-cta a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
   margin: 10px 0;
   font-family: "Barlow", serif;
   font-weight: 700;
@@ -699,13 +745,6 @@
 
 .box-cta .button-cta a:hover {
   background-color: #0d7d47;
-}
-
-.box-cta .button-cta a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
 }
 
 .box-cta .button-cta img {
