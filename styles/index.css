@@ -40,7 +40,8 @@ summary {
 }
 
 p,
-h3 {
+h3,
+a {
   font-family: "Inter", serif;
   color: #1f2041;
 }
