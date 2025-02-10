@@ -1,0 +1,47 @@
+.button-upsell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  margin: 100px 30px 20px 30px;
+}
+
+.button-upsell button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding: 10px 20px;
+  border-radius: 8px;
+  color: white;
+  font-weight: 700;
+  font-size: 25px;
+  background-color: #11a65f;
+  border: none;
+}
+
+.button-refuse {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  margin: 0 30px 100px 30px;
+}
+
+.button-refuse button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding: 10px 20px;
+  border-radius: 8px;
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  background-color: #c52f11;
+  border: none;
+}
